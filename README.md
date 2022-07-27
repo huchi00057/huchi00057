@@ -1,4 +1,6 @@
-### Hi there 👋
+![79e1f28764eae1c81a043efb4dac5873](https://user-images.githubusercontent.com/46515944/181229343-f543f817-1b68-41bf-889c-53cb9fd5f604.gif)
+
+
 
 <!--
 **huchi00057/huchi00057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
