@@ -1,6 +1,13 @@
 ![79e1f28764eae1c81a043efb4dac5873](https://user-images.githubusercontent.com/46515944/181229343-f543f817-1b68-41bf-889c-53cb9fd5f604.gif)
 
 
+- 🧡 研究物件偵測 Object Detection
+- 🔨 玩過 Yolo Family、DeblurGan-v2、DeepSort、Strikingly(網頁)
+- 🍬 目標：時間內順利完成五年一貫 + 雙聯學位
+- 📯 我的Medium https://medium.com/@huchi00057
+- 🥁 我的Tiktok https://www.tiktok.com/@huchi00057
+- 📫 我的信箱 huchi00057@gmail.com
+
 
 <!--
 **huchi00057/huchi00057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
